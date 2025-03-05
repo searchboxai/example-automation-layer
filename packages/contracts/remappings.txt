@@ -1,0 +1,7 @@
+permit2/=lib/permit2/src
+
+swap-bridge/=lib/swap-bridge/src
+
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts
+
+@pythnetwork/pyth-sdk-solidity/=node_modules/@pythnetwork/pyth-sdk-solidity

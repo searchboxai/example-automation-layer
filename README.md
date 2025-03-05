@@ -1,6 +1,6 @@
 # Mayan-swiftX
 
-Mayan-swiftX is a custom swap order implementation built on top of the Mayan Swift protocol. This extension enables the following functionalities:
+Mayan-swiftX is a gasless custom swap order implementation built on top of the Mayan Swift protocol. This extension enables the following functionalities:
 
 1. **Limit Orders**: Execute orders based on specified price targets.
 2. **Conditional Orders**: Execute orders based on predefined conditions.
